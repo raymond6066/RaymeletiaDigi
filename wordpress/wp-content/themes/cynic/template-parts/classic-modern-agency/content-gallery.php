@@ -1,0 +1,46 @@
+<?php if (!is_single()) { ?>
+	<h2 class="blog-item-title font-alt"><a href="<?php the_permalink() ?>"><?php the_title() ?></a></h2>
+<?php } else { ?>
+	<h2 class="blog-item-title font-alt"><?php the_title() ?></h2>
+<?php } ?>
+<div class="blog-item-data"> <a href="<?php the_permalink()?>"><i class="icon-calendar-full"></i> <?php echo get_the_date('j F, Y') ?></a> <span class="separator">&nbsp;</span> <?php if(has_category()){?><span class="author"><i class="icon-list4"></i> <?php echo get_the_category_list(esc_html__(', ', 'cynic'));?></span> <span class="separator">&nbsp;</span> <?php }?><a href="<?php the_author_meta('url')?>"><i class="icon-user"></i> <?php the_author();?></a> <span class="separator">&nbsp;</span> <a class="comments_link" href="<?php echo esc_url(get_comments_link(get_the_ID()))?>"><?php printf(_nx('%2$s Comment', '%2$s Comments', get_comments_number(), 'comments title', 'cynic'), number_format_i18n(get_comments_number()), '<i class="icon-bubbles"></i>');?></a></div>
+<div class="blog-media post-format-<?php echo get_post_format() ?>"> 
+	<?php
+	$galleries = cynic_get_meta('cynic_post_gallery', false);
+	if($galleries){
+		array_unshift($galleries, get_post_thumbnail_id(get_the_ID()));
+	?>
+		<ul class="clearlist content-slider">
+		<?php
+		foreach($galleries as $imgid){?>
+		  <li> <?php echo wp_get_attachment_image((int)$imgid, 'full')?> </li>
+		<?php }?>  
+		</ul>
+	<?php }else{ 
+		the_post_thumbnail('full', array('class' => 'blog img'));
+	}
+	?>
+</div>
+<div class="blog-item-body">
+	<?php
+	if(is_single()){
+		the_content();
+		wp_link_pages(array(
+			'before' => '<div class="page-links">' . esc_html__('Pages:', 'cynic'),
+			'after' => '</div>',
+			'link_before' => '<span class="page-number">',
+			'link_after' => '</span>',
+		));
+	}else{
+		the_excerpt();
+	}
+	?>
+</div>
+<?php
+if(!is_single()){
+?>
+<!-- Read More Link -->
+<div class="blog-item-foot"> <a href="<?php the_permalink()?>" class="medium-btn3 btn btn-nofill green-text"><?php esc_html_e('Read More', 'cynic')?></a> </div>
+<?php 
+}
+?>

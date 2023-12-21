@@ -1,0 +1,89 @@
+.iconpicker .iconpicker-item {
+    font-size: 20px;
+    line-height: 38px;
+    width: 38px;
+    height: 38px;
+    padding: 0;
+    margin: 0 8px 8px 0;
+}
+
+.cynic-icon_nav .vc_general.vc_element-icon,
+.vc_general.vc_element-icon.cynic-icon {
+    background-image: url(element-icon.png);
+    background-size: 100%;
+}
+
+
+
+/*-- Customizer styling --*/
+
+.wp-color-result {
+    border: none;
+    box-shadow: none;
+}
+
+.customize-pane-child.redux-main .wp-picker-container .wp-color-result {
+    height: 30px!important;
+}
+
+.wp-color-result:after {
+    border: none;
+    line-height: 30px;
+}
+
+.wp-color-result:focus:after,
+.wp-color-result:hover:after {
+    border: none;
+}
+
+.redux-main .customize-control {
+    padding-bottom: 4px;
+    padding: 10px 25px;
+    background: #eee;
+    margin-bottom: 10px!important;
+    border-bottom: none!important;
+    box-sizing: border-box;
+}
+
+#customize-controls .wp-full-overlay-sidebar-content {
+    background: #fff;
+}
+
+#customize-controls .description {
+    color: #222;
+    font-weight: 600;
+    margin-bottom: 10px;
+    display: block;
+}
+#customize-theme-controls .customize-pane-child.accordion-section-content{
+	border: none;
+}
+.noUi-handle {
+	background: #af46fc!important;
+	box-shadow: none!important;
+	border: none!important;
+	cursor: pointer!important;
+}
+.wp-customizer .redux-container-slider .redux-slider-container {
+	background: #ff7cb0!important;
+	border: none;
+	height: 7px!important;
+}
+.noUi-horizontal .noUi-handle {
+    width: 20px!important;
+    height: 20px!important;
+    border-radius: 50%!important;
+}
+.noUi-handle:before, 
+.noUi-handle:after {
+    height: 9px!important;
+    width: 2px!important;
+    left: 7px!important;
+    top: 5px!important;
+}
+.noUi-handle:after {
+	left: 11px!important;
+}
+.rAds{
+	display: none!important;
+}

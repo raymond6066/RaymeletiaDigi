@@ -1,0 +1,41 @@
+.redux-notice{
+    display:none !important;
+}
+
+.icon_autocomplete_holder{
+    position: relative;
+    display:block;
+}
+.icon_autocomplete_holder .suggestions{
+    position: absolute;
+    left: 0;
+    width: 100%;
+    background: #fff;
+    color: #000;
+    font-size: 22px;
+    box-shadow: 1px 1px 5px rgba(0,0,0, 0.6);
+}
+.icon_autocomplete_holder .suggestions li{
+    display: inline-block;
+    padding: 3px 11px;
+    cursor: pointer;
+}
+.icon_autocomplete_holder .clearicon{
+    position:absolute;
+    top: 0;
+    right: 10px;
+    padding: 3px 11px;
+    background: #fff;
+    border: 1px solid #000;
+    font-size: 18px;
+}
+label.vc_checkbox-label{
+    width: 25%!important;
+    float: left!important;
+    line-height: 30px!important;
+}
+
+.cynic-icon_nav .vc_general.vc_element-icon, .vc_general.vc_element-icon.cynic-icon {
+    background-image: url(../../images/element-icon.png);
+    background-size: 100%;
+}

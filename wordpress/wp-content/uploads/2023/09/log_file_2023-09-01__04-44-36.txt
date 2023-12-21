@@ -1,0 +1,103 @@
+
+---Downloaded files---
+The import files for: Cynic - Modern Big Agency were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://raymeletia.digital
+Data file = /var/www/html/wp-content/uploads/2023/09/demo-content-import-file_2023-09-01__04-44-36.xml
+Widget file = /var/www/html/wp-content/uploads/2023/09/demo-widgets-import-file_2023-09-01__04-44-36.json
+Customizer file = /var/www/html/wp-content/uploads/2023/09/demo-customizer-import-file_2023-09-01__04-44-36.dat
+Redux files:
+cynic_options -> /var/www/html/wp-content/uploads/2023/09/demo-redux-import-file_0-2023-09-01__04-44-36.json 
+
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Footer Services Widget : 
+
+Navigation Menu - Popular Services - Imported
+
+Footer Resources Widget : 
+
+Navigation Menu - Resourses - Imported
+
+Footer Support Widget : 
+
+Navigation Menu - Support - Imported
+
+Footer Social Media Widget : 
+
+Social Media Widget - Get in touch - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: cynic_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

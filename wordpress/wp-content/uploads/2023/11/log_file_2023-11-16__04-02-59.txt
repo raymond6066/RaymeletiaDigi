@@ -1,0 +1,15 @@
+
+---Downloaded files---
+The import files for: Cynic - Classic Big Agency were successfully downloaded!
+Initial max execution time = 3000
+Files info:
+Site URL = https://raymeletia.digital
+Data file = /var/www/html/wordpress/wp-content/uploads/2023/11/demo-content-import-file_2023-11-16__04-02-59.xml
+Widget file = /var/www/html/wordpress/wp-content/uploads/2023/11/demo-widgets-import-file_2023-11-16__04-02-59.json
+Customizer file = /var/www/html/wordpress/wp-content/uploads/2023/11/demo-customizer-import-file_2023-11-16__04-02-59.dat
+Redux files:
+cynic_options -> /var/www/html/wordpress/wp-content/uploads/2023/11/demo-redux-import-file_0-2023-11-16__04-02-59.json 
+
+
+---pt-ocdi/before_content_import---
+

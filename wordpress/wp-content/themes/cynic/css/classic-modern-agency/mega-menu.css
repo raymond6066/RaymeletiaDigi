@@ -1,0 +1,269 @@
+/* ===================================
+    Mega Menu
+====================================== */
+
+.main-menu {
+    margin: 0;
+}
+
+.navbar {
+    width: 100%;
+    border-radius: 0;
+    border: none!important;
+}
+
+.main-menu .navbar-brand {
+    height: 110px;
+    padding: 0 15px;
+    position: relative;
+}
+
+.main-menu .nav .open>a,
+.main-menu .nav .open>a:hover,
+.main-menu .nav .open>a:focus {
+    background: none;
+    border-bottom: 2px solid #53b778;
+    color: #323a45;
+}
+.multipage-agency .main-menu .nav .open>a:focus{
+    border-bottom: 2px solid transparent;
+    background: transparent;
+}
+.main-menu .navbar-nav>li {
+    margin-left: 30px;
+    margin-right: 0;
+}
+.main-menu .navbar-nav>li>a:not(.btn){
+    padding: 0;
+    font-size: 16px;
+    line-height: 34px;
+    margin: 37px 0;
+    font-weight: 400;
+    color: #606060;
+    border-bottom: 2px solid transparent;
+}
+
+.main-menu .navbar-nav .menu-btn {
+    margin-top: 30px;
+}
+
+.main-menu .navbar-nav>li>a:not(.btn):hover,
+.main-menu .navbar-nav>li.active>a:not(.btn) {
+    background: none;
+    border-bottom: 2px solid #53b778;
+}
+
+.main-menu .navbar-nav .dropdown>a>i {
+    font-size: 12px;
+}
+.main-menu .navbar-nav li>.dropdown-megamenu li a {
+    padding: 0;
+    font-size: 14px;
+    color: #606060;
+    position: relative;
+}
+
+.main-menu .navbar-nav li>.dropdown-megamenu li a:hover,
+.main-menu .navbar-nav li>.dropdown-megamenu li.active a {
+    border: none;
+    color: #53b778;
+}
+
+.main-menu .navbar-nav li>.dropdown-megamenu li:last-child a {
+    padding: 0;
+}
+
+.main-menu .navbar-nav li>.dropdown-megamenu li a span {
+    color: #323a45;
+    font-size: 14px;
+    position: absolute;
+    top: 2px;
+    left: -25px;
+    transition: all .5s;
+}
+
+.main-menu .navbar-nav li>.dropdown-megamenu li a:hover span {
+    color: #53b778;
+}
+
+.main-menu .navbar-nav li>.dropdown-megamenu .b-clor.semi-bold {
+    font-size: 18px;
+    padding-bottom: 15px;
+}
+
+.main-menu .navbar-nav li.dropdown a.dropdown-toggle:after {
+    content: "\e93a";
+    font-family: "linearicons" !important;
+    margin: 5px;
+    font-size: 12px;
+    display: none;
+}
+
+.main-menu .navbar-nav li>.dropdown-menu {
+    position: absolute;
+    left: 15px;
+    background: transparent;
+    top: calc(100% - 50px);
+    padding: 50px 0 0;
+    min-width: 220px;
+    border: none;
+    box-shadow: none;
+}
+.main-menu .navbar-nav li:last-child>.dropdown-menu ,
+.main-menu .navbar-nav li:nth-last-child(2)>.dropdown-menu ,
+.main-menu .navbar-nav li:nth-last-child(3)>.dropdown-menu {
+    left: auto;
+    right: 0;
+}
+.main-menu .navbar-nav li>.dropdown-megamenu {
+    width: calc(100% - 30px);
+}
+
+.main-menu .navbar-nav li .megamenu {
+    padding: 20px 25px;
+    padding-right: 0;
+    background: #ffffff;
+    border-top: 1px solid #9fa29c;
+    box-shadow: 0 6px 12px rgba(0,0,0,.175);
+}
+
+.main-menu .navbar-nav li>.dropdown-megamenu .megamenu {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+}
+.no-flexbox .main-menu .navbar-nav li>.dropdown-megamenu .megamenu {
+    display: block!important;
+}
+
+.main-menu .navbar-nav li>.dropdown-megamenu .megamenu>li {
+    box-sizing: border-box;
+    margin-right: 0;
+    border-right: 1px solid #9fa29c;
+    padding: 20px 25px;
+    margin-bottom: 0;
+}
+
+.main-menu .navbar-nav li>.dropdown-megamenu .megamenu>li:last-child {
+    border-right: none;
+}
+
+.main-menu .navbar-nav li>.dropdown-megamenu .megamenu .dropdown-submenu {
+    padding: 0;
+    padding-left: 25px;
+}
+
+.main-menu .navbar-nav li>.dropdown-megamenu .megamenu .dropdown-submenu li {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+
+.main-menu .navbar-nav li>.dropdown-menu .megamenu li a {
+    font-size: 14px;
+    line-height: 35px;
+    color: #606060;
+}
+
+.main-menu .navbar-nav li>.dropdown-megamenu .megamenu > li > a{
+    font-size: 18px;
+    line-height: 40px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #53b778;
+    cursor: default;
+}
+.main-menu .navbar-nav li>.dropdown-menu .megamenu li.active a {
+    color: #53b778;
+}
+
+.main-menu .navbar-nav li>.dropdown-menu .megamenu li a:hover {
+    color: #53b778;
+}
+
+.main-menu .navbar-nav li>.dropdown-megamenu .megamenu .dropdown-submenu li a i {
+    margin-right: 20px;
+}
+
+.main-menu .navbar-nav li>.dropdown-menu .megamenu .dropdown-submenu li a:hover,
+.main-menu .navbar-nav li>.dropdown-menu .megamenu .dropdown-submenu li.active a {
+    color: #53b778;
+}
+.main-menu .navbar-nav li>.dropdown-menu .megamenu .dropdown-submenu li a:hover span,
+.main-menu .navbar-nav li>.dropdown-menu .megamenu .dropdown-submenu li.active a span{
+    color: #53b778;
+}
+.main-menu .navbar-nav li>.dropdown-menu .megamenu .dropdown-submenu li a{
+    color: #606060;
+    position: relative;
+}
+.main-menu .navbar-nav li>.dropdown-megamenu .megamenu .dropdown-submenu .submenu-heading {
+    font-size: 18px;
+    line-height: 40px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #53b778;
+}
+
+.main-menu .navbar-nav a:not(.btn):active,
+.main-menu .navbar-nav a.active:not(.btn),
+.main-menu .navbar-nav li .dropdown-megamenu a.active:not(.btn) span {
+    color: #53b778;
+}
+
+.main-menu .navbar-nav li .dropdown-megamenu a.active {
+    border-bottom: none;
+    color: #53b778;
+}
+.dropdown-menu{
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    border-radius: 0;
+}
+
+.main-menu .navbar-nav .dropdown:last-child>.dropdown-menu {
+    left: auto;
+    right: 0;
+}
+.main-menu .container{
+    position: relative;
+}
+/* ===================================
+    Custom Animations
+====================================== */
+
+@keyframes fade-in-up {
+    0% {
+        top: 130%;
+        opacity: 0;
+    }
+    100% {
+        top: calc(100% - 0);
+        opacity: 1;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    /*.main-menu .navbar-nav .dropdown:hover .dropdown-menu {
+        display: block;
+        -webkit-animation: fade-in-up .25s forwards;
+        animation: fade-in-up .25s forwards;
+    }*/
+}
+@media screen and (max-width: 767px) {
+    .main-menu .navbar-nav li .megamenu{
+        border: none;
+        box-shadow: none;
+    }
+    .multipage-agency .main-menu .navbar-nav{
+        padding-top: 20px;
+    }
+    .multipage-agency .main-menu .navbar-nav>li.dropdown li a{
+        border: none;
+    }
+}

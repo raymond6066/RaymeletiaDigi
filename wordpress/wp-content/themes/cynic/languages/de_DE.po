@@ -1,0 +1,2643 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2018-07-11 15:06+0600\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.7\n"
+"Last-Translator: \n"
+"Language: de_DE\n"
+
+#: lib/cynic-custom-posttypes-functions.php:205
+msgid "Related Projects"
+msgstr "Ähnliche Projekte"
+
+#: lib/cynic-custom-posttypes-functions.php:229
+#: lib/cynic-custom-posttypes-functions.php:242
+msgid "View Details"
+msgstr "Details anzeigen"
+
+#: lib/cynic-custom-posttypes-functions.php:333
+msgid "Job Description"
+msgstr "Arbeitsbeschreibung"
+
+#: lib/cynic-custom-posttypes-functions.php:452
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: lib/cynic-custom-posttypes-functions.php:484
+msgid "Overview"
+msgstr "Überblick"
+
+#: lib/cynic-custom-posttypes-functions.php:599
+msgid "Related Case Studies"
+msgstr "Verwandte Fallstudien"
+
+#: lib/cynic-custom-posttypes-functions.php:611
+msgid "VIEW DETAILS"
+msgstr "Details anzeigen"
+
+#: lib/functions/classic-modern-agency/actions.php:7
+#: lib/functions/classic-modern-agency/theme-config.php:347
+#: lib/functions/seo-agency/theme-config.php:675
+msgid "Blog"
+msgstr "Blog"
+
+#: lib/functions/classic-modern-agency/actions.php:20
+#, php-format
+msgid "Search Results For: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: lib/functions/classic-modern-agency/actions.php:65
+msgid "<i class=\"icon-reply\"></i> Reply"
+msgstr "<i class=“icon-reply”></i> Antworten"
+
+#: lib/functions/classic-modern-agency/actions.php:86
+msgid "Posted on:"
+msgstr "Veröffentlicht am:"
+
+#: lib/functions/classic-modern-agency/actions.php:183
+#: lib/functions/seo-agency/theme-config.php:380
+#: lib/functions/seo-agency/theme-config.php:641
+msgid "Close"
+msgstr "Schließen"
+
+#: lib/functions/classic-modern-agency/actions.php:318
+msgid "Share this post:"
+msgstr "Teile diesen Beitrag:"
+
+#: lib/functions/classic-modern-agency/class-cynic-customer-reviews.php:40
+#: lib/functions/classic-modern-agency/class-cynic-customer-reviews.php:72
+#: lib/functions/seo-agency/widgets/class-seo-agency-customer-reviews.php:40
+#: lib/functions/seo-agency/widgets/class-seo-agency-customer-reviews.php:72
+msgid "Image"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-customer-reviews.php:44
+#: lib/functions/classic-modern-agency/class-cynic-customer-reviews.php:83
+#: lib/functions/seo-agency/widgets/class-seo-agency-customer-reviews.php:44
+#: lib/functions/seo-agency/widgets/class-seo-agency-customer-reviews.php:83
+msgid "Add Image"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-customer-reviews.php:45
+#: lib/functions/classic-modern-agency/class-cynic-customer-reviews.php:84
+#: lib/functions/seo-agency/widgets/class-seo-agency-customer-reviews.php:45
+#: lib/functions/seo-agency/widgets/class-seo-agency-customer-reviews.php:84
+msgid "Remove Image"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:120
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:124
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:137
+msgid "sub item"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:152
+msgid "Move up"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:165
+msgid "Move down"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:169
+msgid "Edit menu item"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:169
+#: lib/functions/classic-modern-agency/page-functions.php:33
+#: lib/functions/classic-modern-agency/page-functions.php:68
+msgid "Edit"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:178
+msgid "URL"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:185
+msgid "Navigation Label"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:191
+msgid "Title Attribute"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:198
+msgid "Open link in a new tab"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:204
+msgid "Custom Icon"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:206
+msgid "Type to get icons suggestion list"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:214
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:220
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:226
+msgid "Description"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:228
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:233
+msgid "Move"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:234
+msgid "Up one"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:235
+msgid "Down one"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:238
+msgid "To the top"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:244
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:257
+msgid "Remove"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/class-cynic-walker-nav-menu-edit.php:258
+msgid "Cancel"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/core.php:78
+#: lib/functions/seo-agency/functions/theme-setup.php:64
+msgid "Primary Menu"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/core.php:79
+msgid "Secondary Menu"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/core.php:221
+msgid "Select or Upload Media Of Your Chosen Persuasion"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/core.php:222
+msgid "Use this media"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/core.php:262
+#: lib/functions/seo-agency/theme-config.php:721
+#: lib/functions/seo-agency/functions/widgets-register.php:10
+msgid "Blog Sidebar"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/core.php:264
+#: lib/functions/seo-agency/functions/widgets-register.php:12
+msgid "Blog sidebar"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/core.php:271
+#: lib/functions/classic-modern-agency/core.php:273
+#: lib/functions/seo-agency/functions/widgets-register.php:19
+#: lib/functions/seo-agency/functions/widgets-register.php:21
+msgid "Footer Services Widget"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/core.php:280
+#: lib/functions/classic-modern-agency/core.php:282
+msgid "Footer Resources Widget"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/core.php:289
+#: lib/functions/classic-modern-agency/core.php:291
+msgid "Footer Support Widget"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/core.php:298
+msgid "Footer Social Media Widget"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/core.php:300
+msgid "Footer sidebar 5"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/core.php:357
+msgctxt "comments title"
+msgid "1 comment"
+msgstr "1 Kommentar"
+
+#: lib/functions/classic-modern-agency/core.php:362
+#, php-format
+msgctxt "Comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Kommentar"
+msgstr[1] "%1$s Kommentare"
+
+#: lib/functions/classic-modern-agency/core.php:394
+#: lib/functions/seo-agency/functions/comment-functions.php:45
+msgid "Comments are closed."
+msgstr "Kommentarfunktion ist geschlossen."
+
+#: lib/functions/classic-modern-agency/core.php:397
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/core.php:406
+#, php-format
+msgid "Name%s"
+msgstr "Name%s"
+
+#: lib/functions/classic-modern-agency/core.php:412
+#, php-format
+msgid "Email%s"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/core.php:419
+msgid "Website"
+msgstr "Webseite"
+
+#: lib/functions/classic-modern-agency/core.php:432
+#: lib/functions/classic-modern-agency/core.php:433
+msgid "Leave a Reply"
+msgstr "Hinterlasse eine Antwort"
+
+#: lib/functions/classic-modern-agency/core.php:434
+msgid "Cancel Reply"
+msgstr "Antwort verwerfen"
+
+#: lib/functions/classic-modern-agency/core.php:435
+msgid "Submit comment"
+msgstr "Kommentar absenden"
+
+#: lib/functions/classic-modern-agency/core.php:437
+msgid "Your email address will not be published."
+msgstr ""
+
+#: lib/functions/classic-modern-agency/core.php:440
+#, php-format
+msgctxt "noun"
+msgid "Comment%s"
+msgstr "Kommentar %s"
+
+#: lib/functions/classic-modern-agency/core.php:445
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+"Sie müssen sich <a href=“%s”> angemeldet haben </a>, um einen Kommentar zu "
+"posten."
+
+#: lib/functions/classic-modern-agency/core.php:451
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Angemeldet als <a href=“%1$s”>%2$s</a>. <a href=“%3$s” title=“Log out of "
+"this account”>Ausloggen?</a>"
+
+#: lib/functions/classic-modern-agency/footer-functions.php:60
+msgid "&copy; 2017. All rights reserved by Your Company"
+msgstr "&copy; 2017. Alle Rechte sind Ihrer Firma vorbehalten"
+
+#: lib/functions/classic-modern-agency/header-functions.php:39
+#: lib/functions/classic-modern-agency/theme-config.php:401
+#: lib/functions/seo-agency/page-functions.php:167
+#: lib/functions/seo-agency/theme-config.php:959
+msgid "Search"
+msgstr "Suche"
+
+#: lib/functions/classic-modern-agency/header-functions.php:122
+msgid "Toggle navigation"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:4
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:5
+#: lib/functions/seo-agency/customizations/general.php:9
+msgid "General Colors"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:7
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:442
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:671
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:894
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:8
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:397
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:499
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:722
+msgid "Allows you to customize the theme."
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:28
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:29
+msgid "Image Overlay Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:58
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:59
+msgid "Section Headings Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:82
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:83
+msgid "Section Sub Headings Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:105
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:106
+msgid "Body Text Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:129
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:130
+#: lib/functions/seo-agency/customizations/footer.php:66
+#: lib/functions/seo-agency/customizations/link_colors.php:30
+msgid "Link Text Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:153
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:154
+msgid "Link Hover Text Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:176
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:177
+msgid "Link Active Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:199
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:200
+msgid "Revolution Slider Heading Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:222
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:292
+msgid "Revolution Slider Subheading Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:245
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:234
+msgid "Case Study Carousel Heading Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:268
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:257
+msgid "Case Study Carousel Body Text Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:291
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:280
+msgid "Case Study Carousel Link Text Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:315
+msgid "Inner Page Banner Heading Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:338
+msgid "Inner Page Banner Text Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:361
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:316
+msgid "Social Icons Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:384
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:339
+msgid "Social Icons Hover Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:407
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:362
+msgid "Featured Ribbon Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:430
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:385
+msgid "Global Sub Title & Placeholder Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:439
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:394
+#: lib/functions/seo-agency/customizations/header.php:6
+msgid "Header Colors"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:462
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:417
+msgid "Header Background Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:473
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:699
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:527
+msgid "Border Radius"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:499
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:440
+msgid "Header Top Bar Background Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:522
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:463
+msgid "Menu Parent Item Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:545
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:486
+msgid "Menu Parent Item Hover Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:568
+msgid "Menu Parent Item Underline Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:591
+msgid "Submenu Background Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:614
+msgid "Submenu Heading Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:637
+msgid "Sub-Menu Item Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:660
+msgid "Sub-Menu Item Hover Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:668
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:496
+#: lib/functions/seo-agency/customizations/fill_button.php:4
+msgid "Button Colors"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:713
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:541
+msgid "Fill Button Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:737
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:565
+#: lib/functions/seo-agency/customizations/fill_button.php:49
+msgid "Fill Button Text Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:761
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:589
+msgid "Fill Button Hover Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:785
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:613
+msgid "Fill Button Hover Text Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:810
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:638
+msgid "No Fill Button Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:834
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:662
+#: lib/functions/seo-agency/customizations/no_fill_button.php:19
+msgid "No Fill Button Text Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:858
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:686
+msgid "No Fill Button Hover Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:882
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:710
+msgid "No Fill Button Hover Text Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:891
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:719
+#: lib/functions/seo-agency/customizations/footer.php:4
+msgid "Footer Colors"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:916
+msgid "Newsletter Background Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:941
+msgid "Footer Background Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:965
+msgid "Footer Copyright Text Border Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:990
+msgid "NewsLetter Heading Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:1014
+msgid "NewsLetter Input Border Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:1038
+msgid "NewsLetter Description Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:1061
+msgid "Footer Headings Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:1085
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:792
+msgid "Footer Link Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/multipage-option-settings.php:1108
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:815
+msgid "Footer Link Hover Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:744
+msgid "Contact Sidebar Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/onepage-option-settings.php:768
+msgid "Footer Text Color"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/page-functions.php:84
+msgid "oops!"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/page-functions.php:84
+msgid "404 Error. We can't seem to find your lost treasure."
+msgstr ""
+
+#: lib/functions/classic-modern-agency/page-functions.php:85
+msgid "Maybe you would like to"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/page-functions.php:87
+msgid "go back?"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/page-functions.php:89
+msgid "car falling image"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/page-functions.php:107
+#: lib/functions/classic-modern-agency/page-functions.php:141
+#: lib/functions/seo-agency/page-functions.php:73
+msgctxt "placeholder"
+msgid "Start Search"
+msgstr "Suche starten"
+
+#: lib/functions/classic-modern-agency/page-functions.php:111
+#: template-parts/classic-modern-agency/header-search.php:13
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Suche…"
+
+#: lib/functions/classic-modern-agency/page-functions.php:134
+#: lib/functions/seo-agency/page-functions.php:65
+msgid "search results for:"
+msgstr "Suchergebnisse für:"
+
+#: lib/functions/classic-modern-agency/page-functions.php:139
+#: lib/functions/seo-agency/page-functions.php:71
+msgctxt "placeholder"
+msgid "Search here..."
+msgstr "Suche hier…"
+
+#: lib/functions/classic-modern-agency/page-functions.php:157
+#: lib/functions/seo-agency/page-functions.php:102
+msgid "search results found"
+msgstr "Suchergebnisse gefunden"
+
+#: lib/functions/classic-modern-agency/page-functions.php:182
+#: lib/functions/classic-modern-agency/page-functions.php:267
+#: lib/functions/classic-modern-agency/post-functions.php:52
+#: lib/functions/seo-agency/page-functions.php:125
+#: lib/functions/seo-agency/page-functions.php:289
+#: lib/functions/seo-agency/post-functions.php:58
+msgid "&lt;"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/page-functions.php:183
+#: lib/functions/classic-modern-agency/page-functions.php:268
+#: lib/functions/classic-modern-agency/post-functions.php:53
+#: lib/functions/seo-agency/page-functions.php:126
+#: lib/functions/seo-agency/page-functions.php:290
+#: lib/functions/seo-agency/post-functions.php:59
+msgid "&gt;"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/page-functions.php:197
+#: lib/functions/seo-agency/page-functions.php:143
+msgid "No results found! Maybe we can help."
+msgstr "Keine Ergebnisse gefunden! Vielleicht können wir helfen."
+
+#: lib/functions/classic-modern-agency/page-functions.php:216
+msgid "contact us now"
+msgstr "kontaktiere uns jetzt"
+
+#: lib/functions/classic-modern-agency/post-functions.php:129
+msgid "Author Details"
+msgstr "Autor Details"
+
+#: lib/functions/classic-modern-agency/post-functions.php:158
+msgid "Prev Post"
+msgstr "Zurück Post"
+
+#: lib/functions/classic-modern-agency/post-functions.php:159
+msgid "Next Post"
+msgstr "Nächster Beitrag"
+
+#: lib/functions/classic-modern-agency/post-functions.php:191
+msgid "Related Posts"
+msgstr "zusammenhängende Posts"
+
+#: lib/functions/classic-modern-agency/seo-agency-widgets-register.php:18
+#: lib/functions/classic-modern-agency/seo-agency-widgets-register.php:20
+#: lib/functions/seo-agency/functions/widgets-register.php:28
+#: lib/functions/seo-agency/functions/widgets-register.php:30
+msgid "Footer About Widget"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/seo-agency-widgets-register.php:27
+#: lib/functions/classic-modern-agency/seo-agency-widgets-register.php:29
+#: lib/functions/seo-agency/functions/widgets-register.php:37
+#: lib/functions/seo-agency/functions/widgets-register.php:39
+msgid "Footer Partners Widget"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/seo-agency-widgets-register.php:36
+#: lib/functions/classic-modern-agency/seo-agency-widgets-register.php:38
+#: lib/functions/seo-agency/functions/widgets-register.php:46
+#: lib/functions/seo-agency/functions/widgets-register.php:48
+msgid "Footer Newsletter Widget"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/seo-agency-widgets-register.php:46
+#: lib/functions/classic-modern-agency/seo-agency-widgets-register.php:48
+#: lib/functions/seo-agency/functions/widgets-register.php:58
+#: lib/functions/seo-agency/functions/widgets-register.php:60
+msgid "Online Submit Form Widget"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:33
+#: lib/functions/classic-modern-agency/theme-config.php:34
+#: lib/functions/seo-agency/theme-config.php:47
+#: lib/functions/seo-agency/theme-config.php:48
+msgid "Theme Options"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:147
+#: lib/functions/seo-agency/theme-config.php:150
+msgid "Header"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:149
+msgid "Set Header Options"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:156
+msgid "Hide Top Bar"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:165
+#: lib/functions/seo-agency/theme-config.php:172
+msgid "Site Logo"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:172
+msgid "Cynic Menu"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:173
+msgid "Enable/Disable Menus"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:181
+msgid "Disable Sticky Header"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:182
+msgid "Enable/Disable sticky header"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:190
+#: lib/functions/seo-agency/theme-config.php:1342
+msgid "Facebook"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:191
+#: lib/functions/seo-agency/theme-config.php:1343
+msgid "Please facebook link"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:197
+#: lib/functions/seo-agency/theme-config.php:1349
+msgid "Twitter"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:198
+#: lib/functions/seo-agency/theme-config.php:1350
+msgid "Please twitter link"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:204
+#: lib/functions/seo-agency/theme-config.php:1356
+msgid "Google Plus"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:205
+#: lib/functions/seo-agency/theme-config.php:1357
+msgid "Please add google plus link"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:211
+#: lib/functions/seo-agency/theme-config.php:1363
+msgid "Instagram"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:212
+#: lib/functions/seo-agency/theme-config.php:1364
+msgid "Please add instagram link"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:218
+#: lib/functions/seo-agency/theme-config.php:1370
+msgid "Pinterest"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:219
+#: lib/functions/seo-agency/theme-config.php:1371
+msgid "Please add pinterest link"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:225
+#: lib/functions/seo-agency/theme-config.php:1377
+msgid "Linkedin"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:226
+#: lib/functions/seo-agency/theme-config.php:1378
+msgid "Please add linkedin link"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:232
+#: lib/functions/seo-agency/theme-config.php:1384
+msgid "Youtube"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:233
+msgid "Please add youtube link"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:239
+msgid "Set telephone no on header"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:240
+msgid "Set telephone number on header"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:241
+#: lib/functions/classic-modern-agency/theme_config_fb.php:20
+msgid "012.345.1234"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:246
+#: lib/functions/classic-modern-agency/theme-config.php:247
+msgid "Set email address on header"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:248
+#: lib/functions/classic-modern-agency/theme_config_fb.php:21
+msgid "info@company.com"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:254
+msgid "Feature Modal In Header"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:255
+msgid "Enable/Disable feature modal in header"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:257
+msgid "Enabled"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:258
+msgid "Disabled"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:263
+#: lib/functions/classic-modern-agency/theme-config.php:264
+msgid "Set Feature Modal Button Text"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:265
+#: lib/functions/classic-modern-agency/theme_config_fb.php:16
+msgid "GET A QUOTE"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:270
+#: lib/functions/classic-modern-agency/theme-config.php:271
+msgid "Set Feature Modal Page"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:277
+msgid "Set Internal Link for Onepage"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:278
+msgid "Internal link could be any link throught the site"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:279
+msgid "#map"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:285
+#: lib/functions/seo-agency/theme-config.php:404
+msgid "Footer"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:287
+msgid "Set Footer Options"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:293
+#: lib/functions/seo-agency/theme-config.php:447
+msgid "Display Scroll To Top"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:294
+#: lib/functions/seo-agency/theme-config.php:448
+msgid "Enable/Disable scroll to top"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:302
+msgid "Display Subscriber Section"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:303
+msgid "Enable/Disable subscriber section"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:311
+msgid "Subscriber Section HTML"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:312
+msgid "Subscriber section custom html markup. Shortcodes supported."
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:318
+msgid "Google Map Api Key"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:319
+msgid "Please add google map api key to load onepage map"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:325
+msgid "Onepage Copyright Text"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:326
+msgid "Please add compyright text for onepage footer"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:332
+#: lib/functions/seo-agency/theme-config.php:512
+#: lib/functions/seo-agency/theme-config.php:513
+msgid "Set Privacy Policy Page Link"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:333
+msgid "Set Privacy Policy Modal Page"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:339
+msgid "Set Terms & Condition Page Link"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:340
+msgid "Set Terms & Condition Modal Page"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:349
+msgid "Set Blog Options"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:355
+#: lib/functions/seo-agency/theme-config.php:711
+msgid "Display Author Info"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:356
+#: lib/functions/seo-agency/theme-config.php:712
+msgid "Enable/Disable author info section"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:364
+#: lib/functions/seo-agency/theme-config.php:1258
+msgid "Display Related Posts"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:365
+#: lib/functions/seo-agency/theme-config.php:1259
+msgid "Enable/Disable related posts section"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:373
+msgid "Hide Sidebar"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:374
+#: lib/functions/seo-agency/theme-config.php:722
+#: lib/functions/seo-agency/theme-config.php:732
+msgid "Enable/Disable sidebar"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:382
+msgid "Comments section"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:383
+msgid "Enable/Disable comment section"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:391
+msgid "Show Comments in page"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:392
+msgid "Enable/Disable comment in page"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:403
+msgid "Set Search Options"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:409
+msgid "Search box in header"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:410
+msgid "Enable/Disable search box in header"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:418
+msgid "Banner image"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:419
+#: lib/functions/seo-agency/theme-config.php:990
+msgid "Please add a banner image for result search page"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:424
+msgid "Banner text"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:425
+#: lib/functions/seo-agency/theme-config.php:998
+msgid "Please enter banner text"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:430
+msgid "No results found text"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:431
+#: lib/functions/seo-agency/theme-config.php:1039
+msgid "Please enter text to display when no results found"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:436
+msgid "No results button text"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:437
+#: lib/functions/seo-agency/theme-config.php:1030
+msgid "Please enter banner text for no results found button"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:442
+#: lib/functions/seo-agency/theme-config.php:928
+#: lib/functions/seo-agency/theme-config.php:1045
+msgid "Select Pages"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:449
+#: lib/functions/seo-agency/theme-config.php:1057
+msgid "Typography"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:451
+msgid "Set Typography Options"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:457
+#: lib/functions/seo-agency/theme-config.php:1067
+#: lib/functions/seo-agency/theme-config.php:1077
+msgid "Body Font"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:458
+#: lib/functions/seo-agency/theme-config.php:1078
+msgid "Specify the body font properties."
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:473
+#: lib/functions/seo-agency/theme-config.php:1144
+msgid "Headings Font"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:474
+#: lib/functions/seo-agency/theme-config.php:1145
+msgid "Specify the headings font properties."
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:490
+#: lib/functions/seo-agency/theme-config.php:1161
+msgid "Main Menu Font"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:491
+#: lib/functions/seo-agency/theme-config.php:1162
+msgid "Specify the main menu font properties."
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:509
+#: lib/functions/seo-agency/theme-config.php:1204
+msgid "General Settings"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:511
+msgid "General Setting Options"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:515
+msgid "Layout Settings"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:518
+#: lib/functions/classic-modern-agency/theme-config.php:529
+msgid "Select Layout Of your theme"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/theme-config.php:526
+#: lib/functions/seo-agency/theme-config.php:1214
+#: lib/functions/seo-agency/theme-config.php:1222
+msgid "Theme Mode"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/widgets/cynic_posts.php:11
+#: lib/functions/classic-modern-agency/widgets/cynic_posts.php:13
+msgid "Posts List Widget"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/widgets/cynic_posts.php:67
+#: lib/functions/classic-modern-agency/widgets/cynic_social.php:110
+#: lib/functions/seo-agency/widgets/class-seo-agency-wp-widget-career.php:66
+#: lib/functions/seo-agency/widgets/class-seo-agency-wp-widget-gallery.php:105
+#: lib/functions/seo-agency/widgets/class-seo-agency-wp-widget-newsletter.php:52
+#: lib/functions/seo-agency/widgets/class-seo-agency-wp-widget-recent-posts.php:117
+msgid "Title:"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/widgets/cynic_posts.php:71
+msgid "Showposts:"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/widgets/cynic_posts.php:75
+msgid "Orderby:"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/widgets/cynic_posts.php:78
+msgid "Post ID"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/widgets/cynic_posts.php:79
+msgid "Post Title"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/widgets/cynic_posts.php:80
+msgid "Post Url"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/widgets/cynic_posts.php:81
+msgid "Post Published"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/widgets/cynic_posts.php:82
+#: lib/functions/seo-agency/theme-config.php:744
+#: lib/functions/seo-agency/theme-config.php:862
+#: lib/functions/seo-agency/functions/comment-functions.php:20
+msgid "Comments"
+msgstr "Kommentare"
+
+#: lib/functions/classic-modern-agency/widgets/cynic_posts.php:83
+msgid "Random"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/widgets/cynic_posts.php:86
+msgid "Decending"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/widgets/cynic_posts.php:87
+msgid "Ascending"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/widgets/cynic_posts.php:103
+msgid "Order:"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/widgets/cynic_social.php:12
+#: lib/functions/classic-modern-agency/widgets/cynic_social.php:25
+msgid "Social Media Widget"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/widgets/cynic_social.php:114
+msgid "Facebook Link:"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/widgets/cynic_social.php:118
+msgid "Twitter Link:"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/widgets/cynic_social.php:122
+msgid "Google+ Link:"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/widgets/cynic_social.php:126
+msgid "Instagram Link:"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/widgets/cynic_social.php:130
+msgid "Pinterest Link:"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/widgets/cynic_social.php:134
+msgid "Linkedin Link:"
+msgstr ""
+
+#: lib/functions/classic-modern-agency/widgets/cynic_social.php:138
+msgid "Youtube Link:"
+msgstr ""
+
+#: lib/functions/seo-agency/footer-functions.php:29
+#: lib/functions/seo-agency/theme-config.php:592
+msgid "Ready to Start Your Project?"
+msgstr ""
+
+#: lib/functions/seo-agency/footer-functions.php:127
+msgid "&copy; 2018 All rights reserved by Your Company"
+msgstr "&copy; 2018 Alle Rechte sind Ihrem Unternehmen vorbehalten"
+
+#: lib/functions/seo-agency/header-functions.php:124
+#: lib/functions/seo-agency/theme-config.php:339
+msgid "Free SEO Audit"
+msgstr "Kostenlose SEO-Prüfung"
+
+#: lib/functions/seo-agency/page-functions.php:151
+msgid "Contact Us"
+msgstr "Kontaktiere uns"
+
+#: lib/functions/seo-agency/page-functions.php:206
+#: lib/functions/seo-agency/theme-config.php:900
+msgid "404"
+msgstr ""
+
+#: lib/functions/seo-agency/page-functions.php:206
+#: lib/functions/seo-agency/theme-config.php:908
+msgid "oops! Page not Found"
+msgstr "Hoppla! Seite nicht gefunden"
+
+#: lib/functions/seo-agency/page-functions.php:208
+#: lib/functions/seo-agency/theme-config.php:916
+msgid "It's gone but it's not the end of the world!"
+msgstr "Es ist weg, aber es ist nicht das Ende der Welt!"
+
+#: lib/functions/seo-agency/page-functions.php:213
+#: lib/functions/seo-agency/theme-config.php:923
+msgid "Go Back Home"
+msgstr "Wieder nach Hause gehen"
+
+#: lib/functions/seo-agency/theme-config.php:152
+msgid "These are really basic fields!"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:161
+#: lib/functions/seo-agency/theme-config.php:414
+msgid "Logo"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:163
+msgid "Set Header Site logo (Header and Footer logo)"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:183
+#: lib/functions/seo-agency/theme-config.php:185
+msgid "Menu"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:191
+msgid "Menu Dropdown Type"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:194
+msgid "Select Menu Dropdown Open Type"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:204
+msgid "Select Menu Layout"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:222
+msgid "Top / Mobile Menu Icon"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:223
+msgid "Leave empty if you want to theme default icon"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:232
+msgid "Top / Mobile Menu Icon Font Size"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:233
+msgid "Specify the Top Menu font size."
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:243
+msgid "Display Top Menu Social Media"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:244
+msgid "Enable/Disable top menu Social Media"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:258
+msgid "Telephone"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:260
+msgid "Set Header Telephone Settings"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:269
+msgid "Display Telephone Number"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:270
+msgid "Enable/Disable display telephone number"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:279
+msgid "Set Telephone Number"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:280
+msgid "Set telephone number"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:289
+msgid "Set Telephone Icon"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:290
+msgid "Set telephone no Icon on header"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:291
+msgid "icon-Phone"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:301
+msgid "Telephone Icon Font Size"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:302
+msgid "Specify the telephone font size."
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:316
+msgid "Top Button"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:318
+msgid "Set Header Top Button Settings"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:327
+msgid "Display Header Button"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:328
+msgid "Enable/Disable header button"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:337
+msgid "Set Header Button Text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:338
+msgid "Set Header Modal Button Text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:346
+msgid "Set Header Button Page"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:347
+msgid "Set header button Page"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:356
+#: lib/functions/seo-agency/theme-config.php:617
+msgid "Open With Modal?"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:357
+#: lib/functions/seo-agency/theme-config.php:618
+msgid "Enable/Disable open with modal"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:368
+msgid "Modal Header Title"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:369
+msgid "Set Modal Header Title"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:370
+#: lib/functions/seo-agency/theme-config.php:631
+msgid "Tell Us About Your Project"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:378
+#: lib/functions/seo-agency/theme-config.php:639
+msgid "Modal Close Text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:379
+msgid "Set Modal Close Text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:387
+#: lib/functions/seo-agency/theme-config.php:648
+msgid "Button Open Type"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:388
+msgid "Button Link open type"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:416
+msgid "Set Footer Logo"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:425
+msgid "Footer Logo"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:436
+msgid "Scroll Top"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:438
+msgid "Set Footer Scroll Setting"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:460
+msgid "Copyright"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:462
+msgid "Set Footer Copyright Setting"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:471
+msgid "Copyright Text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:472
+msgid "Please add copyright text for footer"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:482
+msgid "Link Menu"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:484
+msgid "Set Footer Privancy Policy and Terms & Condtion"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:493
+msgid "Display Bottom Menu Bar"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:494
+msgid "Enable/Disable Privancy and T&C Menu"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:503
+msgid "Set Privacy Policy Page Link Text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:504
+msgid "Set Privacy Policy Page Link text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:505
+msgid "Privacy Policy"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:522
+#: lib/functions/seo-agency/theme-config.php:523
+msgid "Set Terms & Condition Page Link Text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:524
+msgid "Terms & Condition"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:531
+#: lib/functions/seo-agency/theme-config.php:532
+msgid "Set Terms & Condition Page"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:540
+msgid "Social link"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:542
+msgid "Set Footer Social Link Settings"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:550
+msgid "Display Footer Social Bar"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:551
+msgid ""
+"Enable/Disable social bar. You can setup social link from general setting."
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:560
+msgid "Media Title"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:561
+msgid "Please Media Title"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:569
+msgid "Start a Project"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:571
+msgid "Set Footer Start a Project Settings"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:580
+msgid "Display Footer Modal Button"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:581
+msgid "Enable/Disable footer button"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:590
+msgid "Set Footer Button Left Text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:591
+msgid "Set footer modal button left side text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:599
+msgid "Set Footer Button Text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:600
+msgid "Set footer modal button text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:601
+msgid "Get Started Today"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:608
+msgid "Set Footer Button Page"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:609
+msgid "Set footer button Page"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:629
+msgid "Modal Footer Title"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:630
+msgid "Set modal header Title"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:640
+msgid "Set modal close text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:649
+msgid "Button link open type"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:661
+msgid "Check to Display Start a Project Block in Pages"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:662
+msgid "Check selected pages to display Start a Project Block in footer"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:663
+msgid "This section allows to active Start a Project Block in selected pages."
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:685
+msgid "General"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:687
+msgid "Set Blog General Settings"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:696
+#: lib/functions/seo-agency/customizations/general.php:148
+msgid "Banner Background Image"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:697
+msgid "Upload Blog Banner Image"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:703
+msgid "Read More Button Text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:704
+msgid "Set Blog Read MOre Text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:705
+#: template-parts/classic-modern-agency/content-audio.php:46
+#: template-parts/classic-modern-agency/content-gallery.php:43
+#: template-parts/classic-modern-agency/content-video.php:45
+#: template-parts/classic-modern-agency/content.php:32
+msgid "Read More"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:731
+msgid "Blog Single Page Sidebar"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:746
+msgid "Set Blog Comment Settings"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:754
+msgid "Show Comment Section in Blog"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:755
+msgid "Enable/Disable comment section in blog"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:768
+msgid "Social"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:770
+msgid "Set Blog Social Settings"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:778
+msgid "Display Social Share Section in Blog"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:779
+msgid "Enable/Disable social share section in blog"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:788
+msgid "Social Share Section Title Text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:789
+msgid "Social share section Title text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:800
+msgid "Previous & Next"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:802
+msgid "Set Blog Previous & Next Settings"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:812
+msgid "Display Prev & Next Button"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:813
+msgid "Enable/Disable Prev & Next button"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:822
+msgid "Previous Button Text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:823
+msgid "Please enter previous button text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:831
+msgid "Next Button Text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:832
+msgid "Please enter Next button text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:840
+msgid "Button Separator Sign"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:841
+msgid "Button separator sign"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:852
+#: lib/functions/seo-agency/functions/theme-setup.php:421
+msgid "Page"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:864
+msgid "Set Page Comment Settings"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:873
+msgid "Show Comment in Page"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:874
+msgid "Enable/Disable Comment section in page"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:887
+msgid "404 page"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:889
+msgid "Set 404 Page Settings"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:898
+msgid "404 Page Error Code"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:899
+msgid "Please enter 404 page error code text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:906
+msgid "404 Page Title"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:907
+msgid "Please enter 404 page title text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:914
+msgid "404 Page Sub Title"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:915
+msgid "Please enter 404 page sub title text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:922
+msgid "Button Text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:934
+msgid "Background Image"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:935
+msgid "Please add a image for 404 page background"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:941
+msgid "Image 1"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:942
+#: lib/functions/seo-agency/theme-config.php:949
+msgid "Please add a image for 404 page"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:948
+msgid "Image 2"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:969
+msgid "Banner"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:971
+msgid "Set Search Page banner Settings"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:980
+msgid "Display Header Banner"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:981
+msgid "Enable/Disable search box banner in header"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:989
+msgid "Banner Image"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:997
+msgid "Banner Text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1007
+msgid "Results"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1009
+msgid "Set Search Page Results Settings"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1015
+msgid "Show Result Per Row"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1018
+msgid "Please define search result per row"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1029
+msgid "No Results Button Text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1038
+msgid "No Results Found Text"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1069
+msgid "Set Typography Body Font Settings"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1095
+msgid "Paragraph Font"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1096
+msgid "Specify the paragraph font properties."
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1113
+msgid "Banner Paragraph Font"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1114
+msgid "Specify the Banner paragraph font properties."
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1134
+msgid "Header Font"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1136
+msgid "Set Typography Heading Font Settings"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1180
+msgid "Top Menu Font"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1181
+msgid "Specify the top menu font properties."
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1216
+msgid "Set Theme Mode Settings"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1225
+msgid "Select Layout Of Your Theme"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1236
+msgid "Global Settings"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1238
+msgid "Set Theme Global Settings"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1244
+msgid "Header Banner Mode"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1247
+msgid "Select Layout Of Header Banner"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1268
+msgid "Display Loader"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1269
+msgid "Enable/Disable Loader"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1279
+msgid "Default Image"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1280
+msgid "A default image for missing image"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1285
+msgid "Breadcrumb"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1287
+msgid "Set Breadcrumb Settings"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1296
+msgid "Is Enabled Breadcrumb"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1297
+msgid "Enable/Disable Breadcrumb"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1306
+msgid "Breadcrumb Home Title"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1307
+msgid "Please enter breadcrumb Home title"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1315
+msgid "Breadcrumb Blog Title"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1316
+msgid "Please enter breadcrumb Blog title"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1324
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1325
+msgid "Please enter breadcrumb Separator"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1332
+msgid "Social Media"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1334
+msgid "Set Site Social Media Settings"
+msgstr ""
+
+#: lib/functions/seo-agency/theme-config.php:1385
+msgid "Please add youtube link."
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/blogs.php:5
+msgid "Blog Colors"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/blogs.php:8
+msgid "Allows you to customize blog colors."
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/blogs.php:29
+msgid "Blog Attribute Text Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/blogs.php:50
+msgid "Blog Attribute Text Hover Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/blogs.php:71
+msgid "Sticky Post Left Border Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/blogs.php:91
+msgid "Sticky Post Background Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/blogs.php:114
+msgid "Search Box Border Line Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/blogs.php:135
+msgid "Search Box Border Focus Line Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/blogs.php:157
+msgid "Right Widget Border Line Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/fill_button.php:7
+msgid "Allows you to customize theme all button style."
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/fill_button.php:24
+msgid "Border Radius of All Button"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/fill_button.php:70
+msgid "Fill Button Text Hover Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/fill_button.php:91
+msgid "Fill Button Border Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/fill_button.php:111
+msgid "Fill Button Border Hover Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/fill_button.php:132
+msgid "Fill Button Hover Shadow Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/fill_button.php:153
+msgid "Fill Button Background Color (Left)"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/fill_button.php:171
+msgid "Fill Button Background Color (Right)"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/fill_button.php:192
+msgid "Fill Button Background Hover Color (Left)"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/fill_button.php:210
+msgid "Fill Button Background Hover Color (Right)"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/footer.php:7
+msgid "Allows you to customize footer section."
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/footer.php:23
+msgid "Logo Max Width"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/footer.php:46
+msgid "Footer Title Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/footer.php:86
+#: lib/functions/seo-agency/customizations/link_colors.php:51
+msgid "Link Text Hover Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/footer.php:108
+msgid "Email Field Line Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/footer.php:127
+msgid "Email Field Line Active Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/footer.php:150
+msgid "Go To Top Arrow Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/footer.php:171
+msgid "Go To Top Background Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/footer.php:201
+msgid "Horizontal Line Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/footer.php:221
+msgid "Backgound Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/form_colors.php:5
+msgid "Form Colors"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/form_colors.php:8
+#: lib/functions/seo-agency/customizations/link_colors.php:8
+#: lib/functions/seo-agency/customizations/revolution_slider.php:8
+msgid "Allows you to customize Revolution Slider content color."
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/form_colors.php:30
+msgid "Input Field Border Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/form_colors.php:50
+msgid "Input Field Border Focus Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/form_colors.php:71
+msgid "Checkbox Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/form_colors.php:91
+msgid "Checkbox Active Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:12
+msgid "Allows you to customize theme global color."
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:33
+msgid "Font Icons Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:60
+#: lib/functions/seo-agency/customizations/general.php:179
+msgid "Banner Heading Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:81
+msgid "Banner Sub Headline Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:104
+#: lib/functions/seo-agency/customizations/general.php:202
+msgid "Breadcrumb Text Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:124
+#: lib/functions/seo-agency/customizations/general.php:222
+msgid "Breadcrumb Text Hover Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:243
+msgid "Banner Background Color (Left)"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:264
+msgid "Banner Background Color (Right)"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:292
+msgid "Section Headline Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:314
+msgid "Section Headline Highlight Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:336
+msgid "Section Sub Headline Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:356
+msgid "Section Body Text Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:379
+msgid "Section Banner Text Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:408
+msgid "Section Banner Image Overlay Color (Left)"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:428
+msgid "Section Banner Image Overlay Color (Right)"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:446
+msgid "Overlay Alpha Transparency"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:471
+msgid "Section Background Image Overlay Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:494
+msgid "Section Background Image"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:524
+msgid "Tab Text Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:545
+msgid "Tab Active/Visited Text Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:567
+msgid "Tab Line Active Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:588
+msgid "Tab Line Hover Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:609
+msgid "Tab Border Color (Top)"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:629
+msgid "Tab Border Color (Bottom)"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:654
+msgid "Tab Active Background Color (Top)"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:675
+msgid "Tab Active Background Color (Bottom)"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:700
+msgid "Body Background Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/general.php:721
+msgid "Body Background Image"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/header.php:9
+#: lib/functions/seo-agency/customizations/menu.php:14
+msgid "Allows you to customize header section."
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/header.php:25
+msgid "Header Logo Max Width"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/header.php:48
+msgid "Header Backgound Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/header.php:68
+msgid "Header Phone Number Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/header.php:87
+msgid "Header Phone Number Hover Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/link_colors.php:5
+msgid "Link Colors"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/link_colors.php:72
+msgid "Read More Link Text Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/link_colors.php:93
+msgid "Read More Link Text Hover Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/link_colors.php:116
+msgid "Our Work Link Hover Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/menu.php:11
+msgid "Menu Colors"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/menu.php:42
+#: lib/functions/seo-agency/customizations/menu.php:248
+#: lib/functions/seo-agency/customizations/menu.php:483
+msgid "Menu Text Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/menu.php:61
+msgid "Menu Text Hover/Active Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/menu.php:80
+msgid "Menu Font Size"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/menu.php:104
+#: lib/functions/seo-agency/customizations/menu.php:374
+#: lib/functions/seo-agency/customizations/menu.php:609
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/menu.php:123
+msgid "Sub Menu Text Hover/Active Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/menu.php:141
+msgid "Sub Menu Font Size"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/menu.php:163
+msgid "Close Icon Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/menu.php:182
+msgid "Close Icon Hover Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/menu.php:201
+msgid "Menu Right Border Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/menu.php:220
+msgid "Menu Scroller Bar Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/menu.php:269
+#: lib/functions/seo-agency/customizations/menu.php:504
+msgid "Menu Text Hover Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/menu.php:290
+msgid "Menu Hover Upper Line Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/menu.php:310
+#: lib/functions/seo-agency/customizations/menu.php:545
+msgid "Menu Active Background Hover Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/menu.php:331
+#: lib/functions/seo-agency/customizations/menu.php:566
+msgid "Menu Background Color (Left)"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/menu.php:351
+#: lib/functions/seo-agency/customizations/menu.php:586
+msgid "Menu Background Color (Right)"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/menu.php:393
+#: lib/functions/seo-agency/customizations/menu.php:628
+msgid "Sub Menu Text Hover Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/menu.php:414
+#: lib/functions/seo-agency/customizations/menu.php:649
+msgid "Sub Menu Separator Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/menu.php:434
+#: lib/functions/seo-agency/customizations/menu.php:669
+msgid "Sub Menu Active Background Hover Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/menu.php:454
+#: lib/functions/seo-agency/customizations/menu.php:689
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/menu.php:525
+msgid "Menu Hover Line Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/no_fill_button.php:41
+msgid "No Fill Button Text Hover Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/no_fill_button.php:63
+msgid "No Fill Button Border Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/no_fill_button.php:84
+msgid "No Fill Button Border Hover Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/no_fill_button.php:107
+msgid "No Fill Button Shadow Hover Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/no_fill_button.php:130
+msgid "No Fill Button Background Hover Color (Left)"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/no_fill_button.php:149
+msgid "No Fill Button Background Hover Color (Right)"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/pricing_colors.php:5
+msgid "Pricing Colors"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/pricing_colors.php:8
+msgid "Allows you to customize WPBakkery Pricing Element color."
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/pricing_colors.php:29
+msgid "Pricing Title Text Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/pricing_colors.php:51
+msgid "Pricing Title Background Color (Left)"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/pricing_colors.php:71
+msgid "Pricing Title Background Color (Right)"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/revolution_slider.php:5
+msgid "Revolution Slider Colors (Home Page)"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/revolution_slider.php:35
+msgid "Slider Headline Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/revolution_slider.php:57
+msgid "Slider Sub Headline Color"
+msgstr ""
+
+#: lib/functions/seo-agency/customizations/revolution_slider.php:77
+msgid "Slider Navigation Arrows Color"
+msgstr ""
+
+#: lib/functions/seo-agency/functions/comment-functions.php:16
+msgid "No Comments"
+msgstr "Keine Kommentare"
+
+#: lib/functions/seo-agency/functions/comment-functions.php:23
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: lib/functions/seo-agency/functions/comment-functions.php:54
+msgid "Full Name"
+msgstr ""
+
+#: lib/functions/seo-agency/functions/comment-functions.php:55
+msgid "Email"
+msgstr ""
+
+#: lib/functions/seo-agency/functions/comment-functions.php:59
+msgid "Message"
+msgstr ""
+
+#: lib/functions/seo-agency/functions/comment-functions.php:63
+msgid "Leave a Comment"
+msgstr "Hinterlasse einen Kommentar"
+
+#: lib/functions/seo-agency/functions/comment-functions.php:64
+msgid "Reply"
+msgstr "Antworten"
+
+#: lib/functions/seo-agency/functions/comment-functions.php:66
+msgid "Submit Comment"
+msgstr "Kommentar absenden"
+
+#: lib/functions/seo-agency/functions/comment-functions.php:112
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Beitrag wartet auf die Moderation."
+
+#: lib/functions/seo-agency/functions/cynic-custom-category-features.php:48
+#: lib/functions/seo-agency/functions/cynic-custom-category-features.php:115
+msgid "Category Order"
+msgstr ""
+
+#: lib/functions/seo-agency/functions/cynic-custom-category-features.php:53
+#: lib/functions/seo-agency/functions/cynic-custom-category-features.php:126
+msgid "Icon Type"
+msgstr ""
+
+#: lib/functions/seo-agency/functions/cynic-custom-category-features.php:61
+#: lib/functions/seo-agency/functions/cynic-custom-category-features.php:139
+msgid "Upload Image Icon"
+msgstr ""
+
+#: lib/functions/seo-agency/functions/cynic-custom-category-features.php:66
+msgid "Add Image Icon"
+msgstr ""
+
+#: lib/functions/seo-agency/functions/cynic-custom-category-features.php:73
+#: lib/functions/seo-agency/functions/cynic-custom-category-features.php:157
+msgid "Category Icon"
+msgstr ""
+
+#: lib/functions/seo-agency/functions/theme-setup.php:68
+msgid "Top Menu"
+msgstr ""
+
+#: lib/functions/seo-agency/functions/theme-setup.php:69
+msgid "Footer Menu"
+msgstr ""
+
+#: lib/functions/seo-agency/functions/theme-setup.php:213
+#: template-parts/seo-agency/content-audio.php:49
+#: template-parts/seo-agency/content-gallery.php:57
+#: template-parts/seo-agency/content-video.php:50
+#: template-parts/seo-agency/content.php:42
+#, php-format
+msgctxt "comments title"
+msgid "%2s Comment"
+msgid_plural "%2s Comments"
+msgstr[0] "%2s Kommentar"
+msgstr[1] "%2s Bemerkungen"
+
+#: lib/functions/seo-agency/functions/theme-setup.php:217
+#: template-parts/seo-agency/content-audio.php:53
+#: template-parts/seo-agency/content-video.php:54
+#: template-parts/seo-agency/content.php:46
+msgid "&#44; "
+msgstr ""
+
+#: lib/functions/seo-agency/functions/theme-setup.php:271
+#: lib/functions/seo-agency/functions/theme-setup.php:394
+#: lib/functions/seo-agency/functions/theme-setup.php:396
+#: lib/functions/seo-agency/functions/theme-setup.php:398
+#: lib/functions/seo-agency/functions/theme-setup.php:403
+#: lib/functions/seo-agency/functions/theme-setup.php:405
+#: lib/functions/seo-agency/functions/theme-setup.php:409
+msgid "Archives"
+msgstr ""
+
+#: lib/functions/seo-agency/functions/theme-setup.php:417
+msgid "Author"
+msgstr ""
+
+#: lib/functions/seo-agency/functions/theme-setup.php:424
+msgid "Search results for"
+msgstr "Suchergebnisse für"
+
+#: lib/functions/seo-agency/functions/theme-setup.php:463
+msgid "About the Author"
+msgstr "Über den Autor"
+
+#: lib/functions/seo-agency/functions/theme-setup.php:482
+#: template-parts/classic-modern-agency/content-audio.php:34
+#: template-parts/classic-modern-agency/content-gallery.php:29
+#: template-parts/classic-modern-agency/content-video.php:33
+#: template-parts/classic-modern-agency/content.php:18
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: lib/functions/seo-agency/widgets/class-seo-agency-wp-widget-career.php:10
+msgid "SEO Agency:Online Submit Form"
+msgstr ""
+
+#: lib/functions/seo-agency/widgets/class-seo-agency-wp-widget-career.php:11
+msgid "An online submit form widget"
+msgstr ""
+
+#: lib/functions/seo-agency/widgets/class-seo-agency-wp-widget-career.php:71
+#: lib/functions/seo-agency/widgets/class-seo-agency-wp-widget-newsletter.php:58
+msgid "Contact Form Short Code:"
+msgstr ""
+
+#: lib/functions/seo-agency/widgets/class-seo-agency-wp-widget-gallery.php:10
+msgid "Cynic: Gallery"
+msgstr ""
+
+#: lib/functions/seo-agency/widgets/class-seo-agency-wp-widget-gallery.php:11
+msgid "A Gallery widget"
+msgstr ""
+
+#: lib/functions/seo-agency/widgets/class-seo-agency-wp-widget-newsletter.php:10
+msgid "Seo Agency : News Letter Form"
+msgstr ""
+
+#: lib/functions/seo-agency/widgets/class-seo-agency-wp-widget-newsletter.php:11
+msgid "A News Letter widget"
+msgstr ""
+
+#: lib/functions/seo-agency/widgets/class-seo-agency-wp-widget-recent-posts.php:10
+msgid "Seo Agency:Recent Post"
+msgstr ""
+
+#: lib/functions/seo-agency/widgets/class-seo-agency-wp-widget-recent-posts.php:11
+msgid "Recent Post widget"
+msgstr ""
+
+#: lib/functions/seo-agency/widgets/class-seo-agency-wp-widget-recent-posts.php:29
+msgid "Recent Posts"
+msgstr ""
+
+#: lib/functions/seo-agency/widgets/class-seo-agency-wp-widget-recent-posts.php:122
+msgid "Number of posts to show:"
+msgstr ""
+
+#: lib/functions/seo-agency/widgets/class-seo-agency-wp-widget-recent-posts.php:130
+msgid "Display post date?"
+msgstr ""
+
+#: template-parts/classic-modern-agency/content-audio.php:6
+#: template-parts/classic-modern-agency/content-gallery.php:6
+#: template-parts/classic-modern-agency/content-video.php:6
+#: template-parts/classic-modern-agency/content.php:9
+#: template-parts/seo-agency/content-gallery.php:61
+msgid ", "
+msgstr ""
+
+#: template-parts/classic-modern-agency/content-audio.php:6
+#: template-parts/classic-modern-agency/content-gallery.php:6
+#: template-parts/classic-modern-agency/content-video.php:6
+#, php-format
+msgctxt "comments title"
+msgid "%2$s Comment"
+msgid_plural "%2$s Comments"
+msgstr[0] "%2$s Kommentar"
+msgstr[1] "%2$s Bemerkungen"
+
+#: template-parts/classic-modern-agency/content-none.php:2
+#: template-parts/seo-agency/content-none.php:2
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/classic-modern-agency/content-none.php:6
+#: template-parts/seo-agency/content-none.php:6
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Es scheint, dass wir nicht finden können, wonach Sie suchen. Vielleicht "
+"kann das Suchen helfen."
+
+#: template-parts/classic-modern-agency/content.php:9
+#, php-format
+msgctxt "comments title"
+msgid "%2$s Comments (1)"
+msgid_plural "%2$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-parts/classic-modern-agency/portfolio-single-image-content.php:63
+#: template-parts/classic-modern-agency/portfolio-single-video-content.php:14
+msgid "Featured - "
+msgstr "Angesagt -"
+
+#: template-parts/seo-agency/contentFooter.php:37
+msgid "PREV"
+msgstr "Zurück"
+
+#: template-parts/seo-agency/contentFooter.php:38
+msgid "NEXT"
+msgstr "NÄCHSTER"

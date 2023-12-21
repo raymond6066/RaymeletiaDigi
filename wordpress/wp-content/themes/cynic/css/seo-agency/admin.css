@@ -1,0 +1,93 @@
+/******** Mulit upload Widget css *******/
+
+.cynic-logos-widget .miw_on {
+    display: block;
+    position: relative;
+    margin-bottom: 35px;
+}
+
+.cynic-logos-widget .miw_off {
+    display: none;
+}
+
+
+.cynic-logos-widget .delete {
+    cursor: pointer;
+}
+
+.cynic-logos-widget .upload-file-container {
+    padding-bottom: 10px;
+}
+
+.cynic-logos-widget .upload-file-container label,
+.upload-link label {
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    padding-bottom: 8px;
+}
+
+.cynic-logos-widget .upload-thumb {
+    /* background: #efefef;*/
+    text-align: center;
+}
+
+.cynic-logos-widget .upload-thumb img.delete {
+    /* margin-left: 90%; */
+    position: relative;
+    right: -109px;
+    top: -100px;
+    border: 1px solid #eee;
+}
+
+.cynic-logos-widget .upload-thumb img {
+    float: none;
+    display: inline-block;
+    margin: 0;
+    height: auto;
+    max-width: 100%;
+    /*padding: 10px;*/
+}
+
+.cynic-logos-widget .upload-link {
+    margin-bottom: 20px;
+}
+
+.cynic-logos-widget .upload-link label {
+    display: block;
+    padding-bottom: 10px;
+}
+
+.cynic-logos-widget .upload-link input {
+    width: 100%;
+}
+
+.upload_image_button {
+    position: absolute;
+    top: -5px;
+    right: 0;
+}
+
+.iconpicker-popover.popover {
+    width: 280px;
+}
+
+.redux-container .redux-main .data-full li {
+    width: 50%;
+    display: inline-block;
+}
+
+.cynic-icon_nav .vc_general.vc_element-icon,
+.vc_general.vc_element-icon.cynic-icon {
+    background-image: url(../../images/element-icon.png);
+    background-size: 100%;
+    background-position: center center;
+}
+
+
+.cynic-logos-widget label{
+    font-size: 14px;
+    line-height: 2rem;
+    font-weight: bold;
+    padding-bottom: 10px;
+}

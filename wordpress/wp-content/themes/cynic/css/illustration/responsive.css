@@ -1,0 +1,480 @@
+@media (max-width: 1199px) {
+
+    /* -- services css -- */
+    .service-block {
+        margin-bottom: 3rem;
+    }
+
+    .grid-wrapper [class*="col-"]:last-child .service-block {
+        margin-bottom: 0;
+    }
+
+    .navbar-nav li {
+        margin-left: 1rem;
+    }
+
+    .scrolled .navbar-nav li a:not(.custom-btn) {
+        font-size: 1.4rem;
+    }
+}
+
+@media (max-width: 991px) {
+
+    /* -- common css -- */
+    .section-gap {
+        padding-top: 4.5rem !important;
+        padding-bottom: 4.5rem;
+    }
+
+    .section-gap-top {
+        padding-top: 4.5rem !important;
+    }
+
+    .section-gap-bottom {
+        padding-top: 4.5rem;
+    }
+
+    br {
+        display: none;
+    }
+
+    /* -- header css -- */
+    .navbar-nav li {
+        width: 100%;
+        margin: 0;
+    }
+
+    .navbar-nav li a:not(.custom-btn) {
+        padding: 1rem 0;
+        border-radius: 6px;
+        justify-content: center;
+    }
+
+    .navbar-nav li a:not(.custom-btn)::before {
+        display: none;
+    }
+
+    .navbar-nav li a:not(.custom-btn):hover,
+    .navbar-nav li a:not(.custom-btn).active {
+        color: #fc7c56;
+    }
+
+    header .navbar-nav {
+        background-color: #eee;
+        padding: 2.1rem 1.5rem;
+        text-align: center;
+    }
+
+    .navbar-nav li .custom-btn {
+        width: 100%;
+        margin: 1.8rem auto;
+    }
+
+    /* -- banner css -- */
+
+    .home-banner {
+        padding-top: 13.3rem !important;
+    }
+
+    .banner .img-container {
+        padding: 3rem;
+    }
+
+    .banner img {
+        padding: 0;
+    }
+
+    /* -- achievements css -- */
+    .counter-wrapper .number {
+        font-size: 3rem;
+        line-height: 1;
+    }
+
+    .counter-wrapper {
+        font-size: 1.6rem;
+        margin-top: 5px;
+    }
+
+    .counter-block .icon-container {
+        margin-right: 1rem;
+    }
+
+    .onepage-services .floating-service-wrapper {
+        -webkit-transform: translateY(-60px);
+        transform: translateY(-60px);
+    }
+
+    .achievements {
+        padding-bottom: 12.5rem !important;
+    }
+
+    .achievements-2 {
+        padding-bottom: 4.5rem !important;
+    }
+
+    .features-grid {
+        padding-bottom: 5.2rem;
+    }
+
+    .features-grid img {
+        max-width: 40rem;
+        margin-bottom: 2.1rem;
+    }
+
+    .section-title {
+        margin: .8rem 0 1rem;
+    }
+
+    .grid-wrapper {
+        padding-top: 2.1rem;
+    }
+
+    .breadcrumb li {
+        font-size: 1.4rem;
+    }
+
+    .navbar-nav .submenu {
+        min-width: auto;
+    }
+
+    .feature-list li {
+        text-align: left;
+    }
+
+    .post-details {
+        margin-bottom: 6rem;
+    }
+}
+
+@media (max-width: 767px) {
+    body {
+        font-size: 1.4rem;
+        line-height: 2.6rem;
+    }
+
+    h1 {
+        font-size: 3rem;
+        line-height: 3.6rem;
+        margin: .3rem 0 .7rem;
+    }
+
+    h2 {
+        font-size: 2.4rem;
+        line-height: 3.4rem;
+    }
+
+    h3 {
+        font-size: 2rem;
+        line-height: 3rem;
+    }
+
+    h4 {
+        font-size: 1.8rem;
+        line-height: 2.8rem;
+    }
+
+    p.larger-txt {
+        font-size: 1.6rem;
+        line-height: 2.6rem;
+    }
+
+    .navbar.scrolled {
+        margin-top: 1.5rem;
+    }
+
+    .banner p {
+        margin-bottom: 2.2rem;
+    }
+
+    .custom-btn {
+        padding: 1rem 2rem;
+    }
+
+    .counter-block {
+        display: block !important;
+        text-align: center;
+    }
+
+    .counter-block .icon-container {
+        margin-right: 0;
+        margin-bottom: 2rem;
+    }
+
+    .counter-block .icon-container img {
+        max-height: 4rem;
+    }
+
+    .counter-wrapper {
+        font-size: 1.4rem;
+        line-height: 2rem;
+    }
+
+    .counter-wrapper .number {
+        font-size: 2rem;
+    }
+
+    .scrolled .navbar-nav {
+        margin-bottom: 3rem;
+    }
+
+    .service-block img {
+        max-height: 5rem;
+        margin-bottom: 2rem;
+    }
+
+    .service-block h4 {
+        margin-bottom: 1.2rem;
+    }
+
+    .features-grid img {
+        max-width: 100%;
+    }
+
+    .hyperlink {
+        font-size: 1.2rem;
+    }
+
+    .hyperlink::after {
+        left: 0;
+    }
+
+    .features-content .hyperlink {
+        margin-top: 1.1rem;
+    }
+
+    .counter-wrapper br {
+        display: block;
+    }
+
+    .clients {
+        padding: 4rem 0;
+    }
+
+    .img-card h4 span {
+        font-size: 1.8rem;
+        line-height: 2.8rem;
+    }
+
+    .img-card h4 {
+        font-size: 1.4rem;
+    }
+
+    .img-card>img {
+        width: 100%;
+    }
+
+    .pricing-block {
+        border-right: none;
+        border-bottom: 2px solid #e6f2ff;
+    }
+
+    .newsletter {
+        text-align: center;
+    }
+
+    .newsletter input {
+        margin-bottom: 1rem;
+    }
+
+    .newsletter .custom-btn {
+        display: block;
+    }
+
+    .pricing-grid-wrapper {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .contact-info a:not(.custom-btn) {
+        font-size: 1.4rem;
+        line-height: 2.6rem;
+    }
+
+    .contact-info .custom-btn {
+        margin-top: .6rem;
+    }
+
+    .page-footer {
+        padding: 3.6rem 0 0rem;
+    }
+
+    .nav-tabs .nav-link {
+        padding: 1rem .5rem 1.1rem;
+    }
+
+    .modal .modal-content {
+        padding: 3rem 1.5rem 1.5rem;
+    }
+
+    .modal .modal-content .close {
+        top: 1rem;
+        right: 1rem;
+    }
+
+    .blog-info li:not(:last-child) {
+        margin-right: 1rem;
+    }
+
+    .blog-info li,
+    .blog-info a {
+        font-size: 1.3rem;
+    }
+
+    .blog-info li img,
+    .blog-info a img {
+        max-height: 1.1rem;
+    }
+
+    .common-list li::after {
+        top: .8rem;
+    }
+
+    .clients-carousel-wrapper .owl-stage .item img {
+        width: 100%;
+        max-width: 10rem;
+        height: auto;
+    }
+
+    .owl-carousel .owl-item .item {
+        padding: 0 1.5rem;
+    }
+
+    .service-block .service-overlay {
+        padding: 1rem 0;
+    }
+
+    .facilities>div {
+        margin-bottom: 0;
+    }
+
+    .feature-video-popup {
+        width: 6rem;
+        height: 6rem;
+    }
+
+    .feature-video-popup::after {
+        border-top-width: 5px;
+        border-left-width: 10px;
+        border-bottom-width: 5px;
+        margin-left: 2px;
+    }
+
+    .full-width-modal.quote-modal .modal-content {
+        padding-top: 39.5px;
+        padding-bottom: 19.5px;
+    }
+
+    .pricing-grid-wrapper [class*="col-"]:first-child .pricing-group {
+        margin-right: 0;
+    }
+
+    .navbar-nav .submenu {
+        border: none;
+    }
+
+    .navbar-nav .submenu li a::after {
+        margin-left: 10px;
+    }
+
+    .navbar-nav .submenu li a {
+        justify-content: center;
+    }
+
+    .error-404-banner,
+    .full-height-banner {
+        height: auto;
+        display: block;
+        align-items: center;
+        padding-top: 130px;
+        padding-bottom: 50px;
+    }
+
+    .error-404-banner h1,
+    .full-height-banner h1 {
+        font-size: 5rem;
+        line-height: 1.2;
+    }
+
+    .error-404-banner .custom-btn {
+        margin-top: 2rem;
+    }
+
+    .thank-you-banner h1 {
+        font-size: 4rem;
+        line-height: 1.2;
+    }
+
+    .footer-widget {
+        margin-bottom: 3.2rem;
+    }
+
+    .page-header .navbar-brand img {
+        height: 2.5rem;
+    }
+
+    .navbar-collapse {
+        max-height: 45rem;
+        overflow-y: scroll;
+    }
+
+    .section-title,
+    .section-title+p {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .features-content .section-title,
+    .features-content .section-title+p {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .features-grid {
+        padding-bottom: 2.2rem;
+    }
+
+    .item-showcase,
+    .btn-filter-wrap {
+        padding-top: 0;
+    }
+
+    .team-modal .modal-body img {
+        max-width: 100%;
+    }
+
+    .newsletter__white h2 {
+        margin-bottom: 1rem;
+    }
+
+    .post-details {
+        padding-top: 6rem;
+        padding-bottom: 0;
+    }
+
+    .post-details .illustration-blog-item+.illustration-blog-item {
+        margin-top: 6rem;
+    }
+
+    .pagination {
+        margin-bottom: 2rem;
+    }
+
+    .quote-form-wrapper .social-icons-wrapper {
+        flex-wrap: wrap;
+    }
+
+    .quote-form-wrapper .social-icons-wrapper p {
+        margin-top: 3rem;
+        margin-bottom: 0;
+    }
+
+    .process-tab-container .nav-link {
+        padding: 1rem 2.5rem 1rem 1rem;
+    }
+}
+
+@media (max-width: 575px) {
+    .onepage-services {
+        padding: 0 15px;
+    }
+}

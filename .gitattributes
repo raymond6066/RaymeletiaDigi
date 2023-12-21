@@ -1,0 +1,10 @@
+# .gitattributes
+
+# Ignore binary files
+*.zip binary
+*.tar binary
+*.gz binary
+*.jpg binary
+*.png binary
+# Add more file extensions as needed
+
